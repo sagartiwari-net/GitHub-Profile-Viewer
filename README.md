@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Built with ♥️ and JavaScript by [Your Name](https://github.com/<sagartiwari-net>)*
+*Built with ♥️ and JavaScript by [Sagar Tiwari](https://github.com/<sagartiwari-net>)*
